@@ -1,0 +1,26 @@
+admin login
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImQyMmMyNzMyLTRhMDEtNDMyMi05M2VlLTNlOWViYzE2NGVjZiIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6ImFkbWluQHdhdGVyLnByb2plY3QiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiV2F0ZXIgQWRtaW4iLCJPcmdhbml6YXRpb25JZCI6IjIiLCJqdGkiOiJmNTlkYTEyNy0wNjA5LTQ4MzAtYWQ3ZC04YjY2MTk4MGJjODYiLCJpYXQiOjE3NjU4NTg0NDMsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IkFkbWluIiwiZXhwIjoxNzY1ODg3MjQzLCJpc3MiOiJXYXRlck1hbmFnZW1lbnRBUEkiLCJhdWQiOiJXYXRlck1hbmFnZW1lbnRVc2VycyJ9.2zlaZaK-R1kfa6FKnIZB9PodOut6BWxvq7j9cl-Q_Zo",
+    "refreshToken": "Kid5Phx7n+5wKhzfFQZbks1GwDYLrUE5kXXkwDP+4yBKQxmIzplvXPuY5DQe1mnVHoqdK/vex1kpR3tOMrmucg==",
+    "tokenExpiresAt": "2025-12-16T12:14:05.2761646Z",
+    "email": "admin@water.project",
+    "fullName": "Water Admin",
+    "roles": [
+        "Admin"
+    ],
+    "organizationId": 2,
+    "organizationName": "Water System Project"
+}
+staff login
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjA3ZTU1YjIzLTE5NmYtNGQ3Ny1iZDZjLWMzYTQzZDcyMzBiMyIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6InN0YWZmQHdhdGVyLnByb2plY3QiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiU3RhZmYgV2F0ZXIiLCJPcmdhbml6YXRpb25JZCI6IjIiLCJqdGkiOiI5NzU1NTg4MC1hZDU5LTQ4ZDgtYmI2Zi0xYWViOTAwYzY3N2IiLCJpYXQiOjE3NjU4NTg1MTAsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IlN0YWZmIiwiZXhwIjoxNzY1ODg3MzEwLCJpc3MiOiJXYXRlck1hbmFnZW1lbnRBUEkiLCJhdWQiOiJXYXRlck1hbmFnZW1lbnRVc2VycyJ9.yp2svJh2m_04RGgE5LQDAXrvS7nIuvaZDHK76ij7-2I",
+    "refreshToken": "oZ+EhBRlK+PRK07ZKPifW6Dzxx6XoL+n/qBvXdCk/7MK1e3fAe5dF1QCZKgOKIjkPQkeUuI/HtxNIytyKW36Tw==",
+    "tokenExpiresAt": "2025-12-16T12:15:11.0841059Z",
+    "email": "staff@water.project",
+    "fullName": "Staff Water",
+    "roles": [
+        "Staff"
+    ],
+    "organizationId": 2,
+    "organizationName": "Water System Project"
+}
